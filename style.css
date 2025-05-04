@@ -119,4 +119,9 @@
   .construction-wrapper a:hover {
     text-decoration: underline;
   }
+  .construction-gif {
+    width: 150px;
+    height: auto;
+    margin-bottom: 20px;
+  }
   
